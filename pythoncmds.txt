@@ -1,0 +1,5 @@
+run site
+python manage.py runserver
+
+Virtual environment
+myvenv\Scripts\activate
